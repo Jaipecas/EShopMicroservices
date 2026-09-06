@@ -1,4 +1,5 @@
 ﻿using Catalog.API.Models;
+using Catalog.API.Products.GetProductByCategory;
 
 namespace Catalog.API.Products.Queries
 {
